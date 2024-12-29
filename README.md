@@ -10,4 +10,4 @@
 ### My skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,tailwind,astro,vite,react,remix,sass)](https://skillicons.dev)
 
-[My Discord profile if you want](https://discord.com/users/1147483626427138059)
+_[My website](https://txthanh.vercel.app/)_
